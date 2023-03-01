@@ -91,7 +91,7 @@ const Footer = () => {
               spacing={["1", "5", "10", "10"]}
             >
               <Text _hover={{ cursor: "pointer", color: "white" }}>
-                © 2022 Clockify
+                © 2023 Trackify
               </Text>
               <Text _hover={{ cursor: "pointer", color: "white" }}>
                 Sitemap

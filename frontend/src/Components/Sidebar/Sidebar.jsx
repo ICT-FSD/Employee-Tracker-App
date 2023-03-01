@@ -112,47 +112,7 @@ const Sidebar = () => {
         <RiTeamFill fontSize={"30px"} />
         <Text as="b">TEAMS</Text>
       </Box>
-      <Box
-        w="100%"
-        padding={"1rem"}
-        _hover={{ bg: "gray", color: "white" }}
-        cursor="pointer"
-        bg="white"
-        display={"flex"}
-        justifyContent={"center"}
-        gap="2rem"
-      >
-        <Flex justifyContent={"center"} gap="2rem">
-          <BsTags fontSize={"30px"} />
-          <Text as="b">TAGS</Text>
-        </Flex>
-      </Box>
-      <Box
-        w="100%"
-        padding={"1rem"}
-        _hover={{ bg: "gray", color: "white" }}
-        cursor="pointer"
-        bg="white"
-        display={"flex"}
-        justifyContent={"center"}
-        gap="2rem"
-      >
-        <HiOutlineUserCircle fontSize={"30px"} />
-        <Text as="b">CLIENTS</Text>
-      </Box>
-      <Box
-        w="100%"
-        padding={"1rem"}
-        _hover={{ bg: "gray", color: "white" }}
-        cursor="pointer"
-        bg="white"
-        display={"flex"}
-        justifyContent={"center"}
-        gap="2rem"
-      >
-        <FiSettings fontSize="30px" />
-        <Text as="b">SETTINGS</Text>
-      </Box>
+      
     </Box>
   );
 };

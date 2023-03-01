@@ -31,6 +31,9 @@ const Login = () => {
       .post("https://clockify-api1.herokuapp.com/login", payload)
       .then((r) => {
         console.log(r.data);
+        if(payload.email=="admin1@gmail.com"&&payload.password=="admin@234"){
+          navigate("/admin")
+        }
         if (r.data.token) {
           localStorage.setItem("login_token", r.data.token);
           localStorage.setItem("email", r.data.email);
