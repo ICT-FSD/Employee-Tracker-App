@@ -30,8 +30,7 @@ The Journey so far has been challenging and fun at the same time for my team thi
 
 We are given a task to make a functional clone website of Clockify is the most popular free time tracker and timesheet app for teams of all sizes. Unlike all the other time trackers, Clockify lets you have an unlimited number of users for free. Clockify is an online app that works in a browser, but you can also install it on your computer or phone.
 
-Clockify is used by everyone from freelancers, small businesses, and agencies, to government institutions, NGOs, universities, and Fortune 500 companies.
-We tried our best to clone the website from scratch based on the knowledge gained from unit-6 of Journey (unit 1–6) at Masai School.  We have imparted the majority of functions that the Clockify. 
+
 
 <img src="https://clockify.me/assets/images/clockify-logo.svg">
 
